@@ -1,5 +1,13 @@
 export const graveyardEntries = [
   {
+    title: "Knaken",
+    url: "https://www.kucoin.com/news/flash/dutch-prosecutors-seek-bankruptcy-for-knaken-crypto-exchange",
+    date: "July 2026",
+    description:
+      "Dutch prosecutors asked a Rotterdam court to force crypto exchange Knaken into bankruptcy after it stopped operating when it failed to get a MiCA license, trapping user funds.",
+    kind: "Bankruptcy",
+  },
+  {
     title: "Bitcoin Depot",
     url: "https://ir.bitcoindepot.com/news-events/press-releases/detail/127/bitcoin-depot-initiates-voluntary-chapter-11-process-to",
     date: "May 2026",
